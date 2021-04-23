@@ -1,0 +1,24 @@
+.gridlayout{
+    display:grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 200px 200px;
+    row-gap: 100px;
+    column-gap: 220px;
+    margin-left: 100px;
+   
+  }
+   .columns{
+    display: block;
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 0 0 10px 1px black;
+   }
+  
+  .columns>img{
+      height: 100px;
+      width: 200px;
+  }
+  .btn {
+      margin-top: 150px;
+  }

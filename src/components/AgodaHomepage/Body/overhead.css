@@ -1,0 +1,21 @@
+
+.overhead{
+    display: flex;
+    width: 950px;
+     flex-direction: row;
+     justify-content:space-between;
+     margin-left: -150px;
+     
+}
+
+.one{
+    display: block;
+    height: 400px;
+    width:700px;
+    text-decoration: none;
+    background-color: gainsboro;
+    box-shadow: 0 0 5px 1px black;
+    margin-right: 50px;
+    border-bottom: 15px solid blue;
+     
+}

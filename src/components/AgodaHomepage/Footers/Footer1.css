@@ -1,0 +1,9 @@
+.f1{
+    height: 180px;
+    margin-top: 80px;
+    background-color:rgb(248, 244, 244);   
+    
+}
+.f1>div{
+    margin-top: 20px;
+}

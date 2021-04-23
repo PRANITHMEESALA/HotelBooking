@@ -1,0 +1,36 @@
+
+.navigation{
+    background-color:white;
+    height: 70px;
+    
+   
+}
+.sublist{
+    margin-right: 50px;
+}
+
+.navigation > a{
+   text-decoration: none;
+   color: blue;
+    font-weight: 500;
+    
+}
+.navigation>a:hover{
+    color:blue;
+}
+#mar{
+    margin-right: 60px;
+}
+.header1{
+   background-color:gainsboro;   
+   color: black;
+   font-weight: 500;
+   height: 80px;
+   text-align: center;
+  
+}
+.header1 > p{
+    position: relative;
+    top: 25px;
+    font-size: large;
+}
